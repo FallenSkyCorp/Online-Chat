@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "MutniyZadanieChatASPNet.Controllers.UserLoginController",
+    "Method": "LoginUser",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MutniyZadanieChatASPNet.API.Contracts.UsersRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MutniyZadanieChatASPNet.API.Controllers.UsersRegistrationController",
+    "Method": "RegistrateUser",
+    "RelativePath": "registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MutniyZadanieChatASPNet.API.Contracts.UsersRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

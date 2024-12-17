@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MutniyZadanieChatASPNet\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|d:\\mutniyzadaniechataspnet\\backend\\mutniyzadaniechataspnet\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|solutionrelative:mutniyzadaniechataspnet\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D210C0-A244-4B13-B28C-39FCE309613F}|Users.DataAccess\\Users.DataAccess.csproj|d:\\mutniyzadaniechataspnet\\backend\\users.dataaccess\\configurations\\usersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D210C0-A244-4B13-B28C-39FCE309613F}|Users.DataAccess\\Users.DataAccess.csproj|solutionrelative:users.dataaccess\\configurations\\usersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|d:\\mutniyzadaniechataspnet\\backend\\mutniyzadaniechataspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|solutionrelative:mutniyzadaniechataspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D210C0-A244-4B13-B28C-39FCE309613F}|Users.DataAccess\\Users.DataAccess.csproj|d:\\mutniyzadaniechataspnet\\backend\\users.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D210C0-A244-4B13-B28C-39FCE309613F}|Users.DataAccess\\Users.DataAccess.csproj|solutionrelative:users.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BE13DF-215F-4170-BB32-536EE97DD506}|Users.Application\\Users.Application.csproj|d:\\mutniyzadaniechataspnet\\backend\\users.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BE13DF-215F-4170-BB32-536EE97DD506}|Users.Application\\Users.Application.csproj|solutionrelative:users.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D210C0-A244-4B13-B28C-39FCE309613F}|Users.DataAccess\\Users.DataAccess.csproj|d:\\mutniyzadaniechataspnet\\backend\\users.dataaccess\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D210C0-A244-4B13-B28C-39FCE309613F}|Users.DataAccess\\Users.DataAccess.csproj|solutionrelative:users.dataaccess\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|d:\\mutniyzadaniechataspnet\\backend\\mutniyzadaniechataspnet\\controllers\\usersregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|solutionrelative:mutniyzadaniechataspnet\\controllers\\usersregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE04BFA-70E8-44D2-83EB-DE7F5ED4DFD6}|Chat.Core\\Chat.Core.csproj|d:\\mutniyzadaniechataspnet\\backend\\chat.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE04BFA-70E8-44D2-83EB-DE7F5ED4DFD6}|Chat.Core\\Chat.Core.csproj|solutionrelative:chat.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|d:\\mutniyzadaniechataspnet\\backend\\mutniyzadaniechataspnet\\contracts\\usersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218E172-A182-45BE-A21A-CF29FA032AC3}|MutniyZadanieChatASPNet\\MutniyZadanieChatASPNet.API.csproj|solutionrelative:mutniyzadaniechataspnet\\contracts\\usersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "MutniyZadanieChatASPNet\\Controllers\\UserLoginController.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "MutniyZadanieChatASPNet\\Controllers\\UserLoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:44:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersConfiguration.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.DataAccess\\Configurations\\UsersConfiguration.cs",
+              "RelativeDocumentMoniker": "Users.DataAccess\\Configurations\\UsersConfiguration.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.DataAccess\\Configurations\\UsersConfiguration.cs",
+              "RelativeToolTip": "Users.DataAccess\\Configurations\\UsersConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:05:29.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.DataAccess\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "Users.DataAccess\\UsersDbContext.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.DataAccess\\UsersDbContext.cs",
+              "RelativeToolTip": "Users.DataAccess\\UsersDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:51:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.Application\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Users.Application\\Services\\UsersService.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.Application\\Services\\UsersService.cs",
+              "RelativeToolTip": "Users.Application\\Services\\UsersService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:36:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersRegistrationController.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Controllers\\UsersRegistrationController.cs",
+              "RelativeDocumentMoniker": "MutniyZadanieChatASPNet\\Controllers\\UsersRegistrationController.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Controllers\\UsersRegistrationController.cs",
+              "RelativeToolTip": "MutniyZadanieChatASPNet\\Controllers\\UsersRegistrationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:14:09.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\Chat.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Chat.Core\\Models\\User.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\Chat.Core\\Models\\User.cs",
+              "RelativeToolTip": "Chat.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:20:59.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Program.cs",
+              "RelativeDocumentMoniker": "MutniyZadanieChatASPNet\\Program.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Program.cs",
+              "RelativeToolTip": "MutniyZadanieChatASPNet\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:45:29.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.DataAccess\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Users.DataAccess\\Repositories\\UsersRepository.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\Users.DataAccess\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "Users.DataAccess\\Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:37:03.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersRequest.cs",
+              "DocumentMoniker": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Contracts\\UsersRequest.cs",
+              "RelativeDocumentMoniker": "MutniyZadanieChatASPNet\\Contracts\\UsersRequest.cs",
+              "ToolTip": "D:\\MutniyZadanieChatASPNet\\Backend\\MutniyZadanieChatASPNet\\Contracts\\UsersRequest.cs",
+              "RelativeToolTip": "MutniyZadanieChatASPNet\\Contracts\\UsersRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:30:09.915Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.AssemblyInfoInputs.cache
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.AssemblyInfo.cs
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.csproj.CoreCompileInputs.cache
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.csproj.AssemblyReference.cache
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\bin\Debug\net8.0\Users.Application.deps.json
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\bin\Debug\net8.0\Users.Application.dll
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\bin\Debug\net8.0\Users.Application.pdb
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\bin\Debug\net8.0\Chat.Core.dll
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\bin\Debug\net8.0\Chat.Core.pdb
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Ap.B414D118.Up2Date
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.dll
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\refint\Users.Application.dll
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\Users.Application.pdb
+D:\MutniyZadanieChatASPNet\Backend\Users.Application\obj\Debug\net8.0\ref\Users.Application.dll
